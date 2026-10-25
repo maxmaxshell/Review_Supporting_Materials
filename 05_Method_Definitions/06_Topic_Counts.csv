@@ -1,0 +1,21 @@
+﻿topic_id,topic,domain,records,denominator,percent
+T01,Modal and system identification,bridge,62,261,23.754789272030653
+T01,Modal and system identification,other_civil,54,602,8.970099667774086
+T02,Inertial strain and MEMS,bridge,85,261,32.56704980842912
+T02,Inertial strain and MEMS,other_civil,103,602,17.109634551495017
+T03,Acoustic piezo and smart materials,bridge,21,261,8.045977011494253
+T03,Acoustic piezo and smart materials,other_civil,156,602,25.91362126245847
+T04,Optical and distributed fiber sensing,bridge,13,261,4.980842911877395
+T04,Optical and distributed fiber sensing,other_civil,35,602,5.813953488372093
+T05,Vision remote and robotic inspection,bridge,67,261,25.67049808429119
+T05,Vision remote and robotic inspection,other_civil,129,602,21.428571428571427
+T06,Signal processing and reconstruction,bridge,94,261,36.015325670498086
+T06,Signal processing and reconstruction,other_civil,188,602,31.229235880398672
+T07,Wireless protocols and connectivity,bridge,119,261,45.593869731800766
+T07,Wireless protocols and connectivity,other_civil,168,602,27.906976744186046
+T08,Synchronization and data quality,bridge,46,261,17.624521072796934
+T08,Synchronization and data quality,other_civil,47,602,7.807308970099668
+T09,Energy harvesting and power,bridge,31,261,11.877394636015326
+T09,Energy harvesting and power,other_civil,115,602,19.102990033222593
+T10,Field operation and environmental effects,bridge,131,261,50.191570881226056
+T10,Field operation and environmental effects,other_civil,233,602,38.70431893687708

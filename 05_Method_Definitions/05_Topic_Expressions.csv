@@ -1,0 +1,330 @@
+﻿topic_id,topic,term,method_family,role
+T01,Modal and system identification,ambient vibration test*,L02,strong_terms
+T01,Modal and system identification,damping ratio*,L02,strong_terms
+T01,Modal and system identification,efdd,L02,weak_terms
+T01,Modal and system identification,eigenfrequenc*,L02,strong_terms
+T01,Modal and system identification,eigensystem realization,L02,strong_terms
+T01,Modal and system identification,experimental modal analys*,L02,strong_terms
+T01,Modal and system identification,fdd,L02,weak_terms
+T01,Modal and system identification,frequency response function*,L02,strong_terms
+T01,Modal and system identification,mac,L02,weak_terms
+T01,Modal and system identification,modal assurance criterion,L02,strong_terms
+T01,Modal and system identification,modal frequenc*,L02,strong_terms
+T01,Modal and system identification,modal identification,L02,strong_terms
+T01,Modal and system identification,modal parameter*,L02,strong_terms
+T01,Modal and system identification,mode decomposition,L02,weak_terms
+T01,Modal and system identification,mode shape*,L02,strong_terms
+T01,Modal and system identification,natural frequenc*,L02,strong_terms
+T01,Modal and system identification,oma,L02,weak_terms
+T01,Modal and system identification,operational modal analys*,L02,strong_terms
+T01,Modal and system identification,ssi,L02,weak_terms
+T01,Modal and system identification,stochastic subspace,L02,strong_terms
+T01,Modal and system identification,system identification,L02,strong_terms
+T02,Inertial strain and MEMS,accelerat*,L05,weak_terms
+T02,Inertial strain and MEMS,accelerometer*,L05,strong_terms
+T02,Inertial strain and MEMS,displacement measurement,L05,weak_terms
+T02,Inertial strain and MEMS,displacement transducer*,L05,strong_terms
+T02,Inertial strain and MEMS,imu,L05,weak_terms
+T02,Inertial strain and MEMS,inclinometer*,L05,strong_terms
+T02,Inertial strain and MEMS,inertial measurement unit*,L05,strong_terms
+T02,Inertial strain and MEMS,load cell*,L05,strong_terms
+T02,Inertial strain and MEMS,mems,L05,weak_terms
+T02,Inertial strain and MEMS,mems sensor*,L05,strong_terms
+T02,Inertial strain and MEMS,micro electro mechanical,L05,strong_terms
+T02,Inertial strain and MEMS,microelectromechanical,L05,strong_terms
+T02,Inertial strain and MEMS,strain gage*,L05,strong_terms
+T02,Inertial strain and MEMS,strain gauge*,L05,strong_terms
+T02,Inertial strain and MEMS,strain measurement,L05,weak_terms
+T02,Inertial strain and MEMS,strain sensor*,L05,strong_terms
+T02,Inertial strain and MEMS,tilt sensor*,L05,strong_terms
+T02,Inertial strain and MEMS,vibrating wire sensor*,L05,strong_terms
+T03,Acoustic piezo and smart materials,acoustic emission*,L07,strong_terms
+T03,Acoustic piezo and smart materials,ae sensor*,L07,weak_terms
+T03,Acoustic piezo and smart materials,carbon nanotube*,L08,strong_terms
+T03,Acoustic piezo and smart materials,cnt,L08,weak_terms
+T03,Acoustic piezo and smart materials,conductive cement*,L08,strong_terms
+T03,Acoustic piezo and smart materials,conductive concrete,L08,strong_terms
+T03,Acoustic piezo and smart materials,electro mechanical impedance,L07,strong_terms
+T03,Acoustic piezo and smart materials,electromechanical impedance,L07,strong_terms
+T03,Acoustic piezo and smart materials,graphene,L08,weak_terms
+T03,Acoustic piezo and smart materials,guided wave*,L07,strong_terms
+T03,Acoustic piezo and smart materials,impedance,L07,weak_terms
+T03,Acoustic piezo and smart materials,impedance based,L07,strong_terms
+T03,Acoustic piezo and smart materials,lamb wave*,L07,strong_terms
+T03,Acoustic piezo and smart materials,lead zirconate titanate,L07,strong_terms
+T03,Acoustic piezo and smart materials,nanocomposite sensor*,L08,strong_terms
+T03,Acoustic piezo and smart materials,nanogenerator*,L08,weak_terms
+T03,Acoustic piezo and smart materials,piezo resist*,L07,strong_terms
+T03,Acoustic piezo and smart materials,piezoelectric nanogenerator*,L08,strong_terms
+T03,Acoustic piezo and smart materials,piezoelectric*,L07,strong_terms
+T03,Acoustic piezo and smart materials,piezoresist*,L07,strong_terms
+T03,Acoustic piezo and smart materials,pitch catch,L07,strong_terms
+T03,Acoustic piezo and smart materials,pzt,L07,weak_terms
+T03,Acoustic piezo and smart materials,self sens*,L08,strong_terms
+T03,Acoustic piezo and smart materials,self sensing concrete,L08,strong_terms
+T03,Acoustic piezo and smart materials,smart aggregate*,L08,strong_terms
+T03,Acoustic piezo and smart materials,smart material*,L08,strong_terms
+T03,Acoustic piezo and smart materials,smart skin*,L08,strong_terms
+T03,Acoustic piezo and smart materials,smart textile*,L08,strong_terms
+T03,Acoustic piezo and smart materials,triboelectric*,L08,strong_terms
+T03,Acoustic piezo and smart materials,ultrasonic*,L07,strong_terms
+T04,Optical and distributed fiber sensing,botda,L06,weak_terms
+T04,Optical and distributed fiber sensing,botdr,L06,weak_terms
+T04,Optical and distributed fiber sensing,brillouin,L06,strong_terms
+T04,Optical and distributed fiber sensing,das,L06,weak_terms
+T04,Optical and distributed fiber sensing,dfos,L06,weak_terms
+T04,Optical and distributed fiber sensing,distributed acoustic sens*,L06,strong_terms
+T04,Optical and distributed fiber sensing,distributed fiber*,L06,strong_terms
+T04,Optical and distributed fiber sensing,distributed fibre*,L06,strong_terms
+T04,Optical and distributed fiber sensing,distributed strain sens*,L06,strong_terms
+T04,Optical and distributed fiber sensing,distributed temperature sens*,L06,strong_terms
+T04,Optical and distributed fiber sensing,dofs,L06,weak_terms
+T04,Optical and distributed fiber sensing,fbg,L06,weak_terms
+T04,Optical and distributed fiber sensing,fiber bragg grat*,L06,strong_terms
+T04,Optical and distributed fiber sensing,fiber optic*,L06,strong_terms
+T04,Optical and distributed fiber sensing,fibre bragg grat*,L06,strong_terms
+T04,Optical and distributed fiber sensing,fibre optic*,L06,strong_terms
+T04,Optical and distributed fiber sensing,ofdr,L06,weak_terms
+T04,Optical and distributed fiber sensing,optical fiber*,L06,strong_terms
+T04,Optical and distributed fiber sensing,optical fibre*,L06,strong_terms
+T04,Optical and distributed fiber sensing,optical time domain reflect*,L06,strong_terms
+T04,Optical and distributed fiber sensing,otdr,L06,weak_terms
+T04,Optical and distributed fiber sensing,rayleigh scatter*,L06,strong_terms
+T05,Vision remote and robotic inspection,camera*,L09,weak_terms
+T05,Vision remote and robotic inspection,computer vision,L09,strong_terms
+T05,Vision remote and robotic inspection,crack classification,L09,strong_terms
+T05,Vision remote and robotic inspection,crack detection,L09,strong_terms
+T05,Vision remote and robotic inspection,crack segment*,L09,strong_terms
+T05,Vision remote and robotic inspection,dic,L09,weak_terms
+T05,Vision remote and robotic inspection,digital image correlation,L09,strong_terms
+T05,Vision remote and robotic inspection,drive by monitoring,L10,strong_terms
+T05,Vision remote and robotic inspection,drive by sensing,L10,strong_terms
+T05,Vision remote and robotic inspection,drone*,L10,strong_terms
+T05,Vision remote and robotic inspection,gnss,L10,weak_terms
+T05,Vision remote and robotic inspection,gps,L10,weak_terms
+T05,Vision remote and robotic inspection,ground penetrating radar,L10,strong_terms
+T05,Vision remote and robotic inspection,image based,L09,strong_terms
+T05,Vision remote and robotic inspection,image processing,L09,strong_terms
+T05,Vision remote and robotic inspection,image*,L09,weak_terms
+T05,Vision remote and robotic inspection,in sar,L10,strong_terms
+T05,Vision remote and robotic inspection,indirect bridge monitoring,L10,strong_terms
+T05,Vision remote and robotic inspection,infrared thermograph*,L09,strong_terms
+T05,Vision remote and robotic inspection,insar,L10,strong_terms
+T05,Vision remote and robotic inspection,inspection robot*,L10,strong_terms
+T05,Vision remote and robotic inspection,instance segment*,L09,strong_terms
+T05,Vision remote and robotic inspection,laser scanning,L10,strong_terms
+T05,Vision remote and robotic inspection,lidar,L10,strong_terms
+T05,Vision remote and robotic inspection,mask r cnn,L09,strong_terms
+T05,Vision remote and robotic inspection,mobile sensing,L10,strong_terms
+T05,Vision remote and robotic inspection,object detection,L09,strong_terms
+T05,Vision remote and robotic inspection,optical flow,L09,strong_terms
+T05,Vision remote and robotic inspection,photogrammetr*,L09,strong_terms
+T05,Vision remote and robotic inspection,radar,L10,weak_terms
+T05,Vision remote and robotic inspection,remote sensing,L10,strong_terms
+T05,Vision remote and robotic inspection,robot*,L10,weak_terms
+T05,Vision remote and robotic inspection,robotic inspection,L10,strong_terms
+T05,Vision remote and robotic inspection,satellite monitoring,L10,strong_terms
+T05,Vision remote and robotic inspection,segmentation,L09,weak_terms
+T05,Vision remote and robotic inspection,semantic segment*,L09,strong_terms
+T05,Vision remote and robotic inspection,stereo vision,L09,strong_terms
+T05,Vision remote and robotic inspection,synthetic aperture radar,L10,strong_terms
+T05,Vision remote and robotic inspection,thermal imaging,L09,strong_terms
+T05,Vision remote and robotic inspection,u net,L09,strong_terms
+T05,Vision remote and robotic inspection,uav*,L10,strong_terms
+T05,Vision remote and robotic inspection,unmanned aerial vehicle*,L10,strong_terms
+T05,Vision remote and robotic inspection,unmanned aircraft,L10,strong_terms
+T05,Vision remote and robotic inspection,vision,L09,weak_terms
+T05,Vision remote and robotic inspection,vision based,L09,strong_terms
+T05,Vision remote and robotic inspection,visual inspection,L09,strong_terms
+T05,Vision remote and robotic inspection,yolo*,L09,strong_terms
+T06,Signal processing and reconstruction,adaptive filter*,L03,strong_terms
+T06,Signal processing and reconstruction,autoregressive model*,L03,strong_terms
+T06,Signal processing and reconstruction,bandpass,L03,strong_terms
+T06,Signal processing and reconstruction,butterworth,L03,strong_terms
+T06,Signal processing and reconstruction,ceemdan,L01,weak_terms
+T06,Signal processing and reconstruction,cepstr*,L01,strong_terms
+T06,Signal processing and reconstruction,compress*,L04,weak_terms
+T06,Signal processing and reconstruction,compressed sampling,L04,strong_terms
+T06,Signal processing and reconstruction,compressed sens*,L04,strong_terms
+T06,Signal processing and reconstruction,compressive sampling,L04,strong_terms
+T06,Signal processing and reconstruction,compressive sens*,L04,strong_terms
+T06,Signal processing and reconstruction,data cleansing,L03,strong_terms
+T06,Signal processing and reconstruction,data compression,L04,strong_terms
+T06,Signal processing and reconstruction,data preprocessing,L03,strong_terms
+T06,Signal processing and reconstruction,data reconstruct*,L04,strong_terms
+T06,Signal processing and reconstruction,denois*,L03,weak_terms
+T06,Signal processing and reconstruction,eemd,L01,weak_terms
+T06,Signal processing and reconstruction,emd,L01,weak_terms
+T06,Signal processing and reconstruction,empirical mode decomposition,L01,strong_terms
+T06,Signal processing and reconstruction,ensemble empirical mode,L01,strong_terms
+T06,Signal processing and reconstruction,entropy,L03,weak_terms
+T06,Signal processing and reconstruction,feature engineering,L03,strong_terms
+T06,Signal processing and reconstruction,feature extraction,L03,strong_terms
+T06,Signal processing and reconstruction,feature selection,L03,strong_terms
+T06,Signal processing and reconstruction,fft,L01,weak_terms
+T06,Signal processing and reconstruction,filter*,L03,weak_terms
+T06,Signal processing and reconstruction,fourier transform*,L01,strong_terms
+T06,Signal processing and reconstruction,frequency domain decomposition,L01,strong_terms
+T06,Signal processing and reconstruction,hht,L01,weak_terms
+T06,Signal processing and reconstruction,high pass filter*,L03,strong_terms
+T06,Signal processing and reconstruction,hilbert huang,L01,strong_terms
+T06,Signal processing and reconstruction,hilbert transform*,L01,strong_terms
+T06,Signal processing and reconstruction,imput*,L04,weak_terms
+T06,Signal processing and reconstruction,intrinsic mode function*,L01,strong_terms
+T06,Signal processing and reconstruction,kalman filter*,L03,strong_terms
+T06,Signal processing and reconstruction,kurtosis,L03,weak_terms
+T06,Signal processing and reconstruction,lossless compression,L04,strong_terms
+T06,Signal processing and reconstruction,lossy compression,L04,strong_terms
+T06,Signal processing and reconstruction,low pass filter*,L03,strong_terms
+T06,Signal processing and reconstruction,low rank recover*,L04,strong_terms
+T06,Signal processing and reconstruction,matrix completion,L04,strong_terms
+T06,Signal processing and reconstruction,missing data imputation,L04,strong_terms
+T06,Signal processing and reconstruction,noise reduction,L03,strong_terms
+T06,Signal processing and reconstruction,nyquist,L04,weak_terms
+T06,Signal processing and reconstruction,outlier removal,L03,strong_terms
+T06,Signal processing and reconstruction,pca,L03,weak_terms
+T06,Signal processing and reconstruction,power spectral density,L01,strong_terms
+T06,Signal processing and reconstruction,principal component analys*,L03,strong_terms
+T06,Signal processing and reconstruction,reconstruct*,L04,weak_terms
+T06,Signal processing and reconstruction,root mean square,L03,weak_terms
+T06,Signal processing and reconstruction,short time fourier,L01,strong_terms
+T06,Signal processing and reconstruction,signal compression,L04,strong_terms
+T06,Signal processing and reconstruction,signal denois*,L03,strong_terms
+T06,Signal processing and reconstruction,signal preprocessing,L03,strong_terms
+T06,Signal processing and reconstruction,signal processing,L03,strong_terms
+T06,Signal processing and reconstruction,signal reconstruct*,L04,strong_terms
+T06,Signal processing and reconstruction,singular value decomposition,L03,strong_terms
+T06,Signal processing and reconstruction,skewness,L03,weak_terms
+T06,Signal processing and reconstruction,spars*,L04,weak_terms
+T06,Signal processing and reconstruction,sparse reconstruct*,L04,strong_terms
+T06,Signal processing and reconstruction,spectra,L01,weak_terms
+T06,Signal processing and reconstruction,spectral analysis,L01,weak_terms
+T06,Signal processing and reconstruction,spectral kurtosis,L01,strong_terms
+T06,Signal processing and reconstruction,spectrum,L01,weak_terms
+T06,Signal processing and reconstruction,stft,L01,weak_terms
+T06,Signal processing and reconstruction,sub nyquist,L04,strong_terms
+T06,Signal processing and reconstruction,svd,L03,weak_terms
+T06,Signal processing and reconstruction,synchrosqueez*,L01,strong_terms
+T06,Signal processing and reconstruction,time frequency analysis,L01,strong_terms
+T06,Signal processing and reconstruction,time series analys*,L03,strong_terms
+T06,Signal processing and reconstruction,variational mode decomposition,L01,strong_terms
+T06,Signal processing and reconstruction,vmd,L01,weak_terms
+T06,Signal processing and reconstruction,wavelet denois*,L03,strong_terms
+T06,Signal processing and reconstruction,wavelet*,L01,strong_terms
+T06,Signal processing and reconstruction,welch method,L01,strong_terms
+T06,Signal processing and reconstruction,wigner ville,L01,strong_terms
+T07,Wireless protocols and connectivity,5g,L11,strong_terms
+T07,Wireless protocols and connectivity,6g,L11,strong_terms
+T07,Wireless protocols and connectivity,6lowpan,L11,strong_terms
+T07,Wireless protocols and connectivity,bandwidth,L11,weak_terms
+T07,Wireless protocols and connectivity,bluetooth,L11,strong_terms
+T07,Wireless protocols and connectivity,cellular network*,L11,strong_terms
+T07,Wireless protocols and connectivity,coap,L11,strong_terms
+T07,Wireless protocols and connectivity,csma,L11,weak_terms
+T07,Wireless protocols and connectivity,ieee 802,L11,strong_terms
+T07,Wireless protocols and connectivity,lora,L11,strong_terms
+T07,Wireless protocols and connectivity,lorawan,L11,strong_terms
+T07,Wireless protocols and connectivity,low power wide area,L11,strong_terms
+T07,Wireless protocols and connectivity,lpwan,L11,strong_terms
+T07,Wireless protocols and connectivity,mesh network*,L11,strong_terms
+T07,Wireless protocols and connectivity,mqtt,L11,strong_terms
+T07,Wireless protocols and connectivity,narrowband iot,L11,strong_terms
+T07,Wireless protocols and connectivity,nb iot,L11,strong_terms
+T07,Wireless protocols and connectivity,packet routing,L11,strong_terms
+T07,Wireless protocols and connectivity,packet*,L11,weak_terms
+T07,Wireless protocols and connectivity,radio frequency identification,L11,strong_terms
+T07,Wireless protocols and connectivity,rfid,L11,strong_terms
+T07,Wireless protocols and connectivity,routing,L11,weak_terms
+T07,Wireless protocols and connectivity,tdma,L11,weak_terms
+T07,Wireless protocols and connectivity,time division multiple access,L11,strong_terms
+T07,Wireless protocols and connectivity,wi fi,L11,strong_terms
+T07,Wireless protocols and connectivity,wifi,L11,strong_terms
+T07,Wireless protocols and connectivity,wireless,L11,weak_terms
+T07,Wireless protocols and connectivity,wireless communication*,L11,strong_terms
+T07,Wireless protocols and connectivity,wireless sensor network*,L11,strong_terms
+T07,Wireless protocols and connectivity,wireless smart sensor*,L11,strong_terms
+T07,Wireless protocols and connectivity,zigbee,L11,strong_terms
+T08,Synchronization and data quality,clock synchron*,L12,strong_terms
+T08,Synchronization and data quality,data integrity,L12,strong_terms
+T08,Synchronization and data quality,data loss,L12,strong_terms
+T08,Synchronization and data quality,data quality,L12,strong_terms
+T08,Synchronization and data quality,fault tolerance,L12,strong_terms
+T08,Synchronization and data quality,fault tolerant,L12,strong_terms
+T08,Synchronization and data quality,jitter,L12,weak_terms
+T08,Synchronization and data quality,missing data,L12,weak_terms
+T08,Synchronization and data quality,packet loss,L12,strong_terms
+T08,Synchronization and data quality,reliable transmission,L12,strong_terms
+T08,Synchronization and data quality,sampling jitter,L12,strong_terms
+T08,Synchronization and data quality,sampling synchron*,L12,strong_terms
+T08,Synchronization and data quality,synchron*,L12,weak_terms
+T08,Synchronization and data quality,synchronisation error*,L12,strong_terms
+T08,Synchronization and data quality,synchronization error*,L12,strong_terms
+T08,Synchronization and data quality,synchronous sampling,L12,strong_terms
+T08,Synchronization and data quality,time synchron*,L12,strong_terms
+T08,Synchronization and data quality,timestamp*,L12,strong_terms
+T09,Energy harvesting and power,battery less,L13,strong_terms
+T09,Energy harvesting and power,battery*,L13,weak_terms
+T09,Energy harvesting and power,batteryless,L13,strong_terms
+T09,Energy harvesting and power,duty cycl*,L13,strong_terms
+T09,Energy harvesting and power,energy budget,L13,weak_terms
+T09,Energy harvesting and power,energy consumption,L13,strong_terms
+T09,Energy harvesting and power,energy efficien*,L13,strong_terms
+T09,Energy harvesting and power,energy harvest*,L13,strong_terms
+T09,Energy harvesting and power,energy scaveng*,L13,strong_terms
+T09,Energy harvesting and power,low power,L13,strong_terms
+T09,Energy harvesting and power,photovoltaic,L13,strong_terms
+T09,Energy harvesting and power,power budget,L13,weak_terms
+T09,Energy harvesting and power,power consumption,L13,strong_terms
+T09,Energy harvesting and power,power management,L13,strong_terms
+T09,Energy harvesting and power,self power*,L13,strong_terms
+T09,Energy harvesting and power,self powered,L13,strong_terms
+T09,Energy harvesting and power,sleep schedul*,L13,strong_terms
+T09,Energy harvesting and power,solar powered,L13,strong_terms
+T09,Energy harvesting and power,ultra low power,L13,strong_terms
+T09,Energy harvesting and power,vibration energy,L13,strong_terms
+T10,Field operation and environmental effects,cost effective,L28,weak_terms
+T10,Field operation and environmental effects,cost effective monitor*,L28,strong_terms
+T10,Field operation and environmental effects,deployment cost*,L28,strong_terms
+T10,Field operation and environmental effects,durability,L28,weak_terms
+T10,Field operation and environmental effects,earthquake monitoring,L27,strong_terms
+T10,Field operation and environmental effects,earthquake*,L27,weak_terms
+T10,Field operation and environmental effects,environmental compensation,L27,strong_terms
+T10,Field operation and environmental effects,environmental effect*,L27,strong_terms
+T10,Field operation and environmental effects,environmental normalisation,L27,strong_terms
+T10,Field operation and environmental effects,environmental normalization,L27,strong_terms
+T10,Field operation and environmental effects,field deployment,L28,strong_terms
+T10,Field operation and environmental effects,field experiment*,L28,strong_terms
+T10,Field operation and environmental effects,field test*,L28,strong_terms
+T10,Field operation and environmental effects,field validation,L28,strong_terms
+T10,Field operation and environmental effects,flood monitor*,L27,strong_terms
+T10,Field operation and environmental effects,full scale,L28,strong_terms
+T10,Field operation and environmental effects,humidity,L27,weak_terms
+T10,Field operation and environmental effects,in service bridge*,L28,strong_terms
+T10,Field operation and environmental effects,landslide monitor*,L27,strong_terms
+T10,Field operation and environmental effects,long term monitoring,L28,strong_terms
+T10,Field operation and environmental effects,long term reliability,L28,strong_terms
+T10,Field operation and environmental effects,low cost,L28,weak_terms
+T10,Field operation and environmental effects,low cost sensor*,L28,strong_terms
+T10,Field operation and environmental effects,on site monitoring,L28,strong_terms
+T10,Field operation and environmental effects,operational variab*,L27,strong_terms
+T10,Field operation and environmental effects,optimal sensor placement,L28,strong_terms
+T10,Field operation and environmental effects,pilot deployment,L28,strong_terms
+T10,Field operation and environmental effects,real world deployment,L28,strong_terms
+T10,Field operation and environmental effects,reliability,L28,weak_terms
+T10,Field operation and environmental effects,robustness,L28,weak_terms
+T10,Field operation and environmental effects,scour,L27,weak_terms
+T10,Field operation and environmental effects,scour monitor*,L27,strong_terms
+T10,Field operation and environmental effects,seismic,L27,weak_terms
+T10,Field operation and environmental effects,seismic monitoring,L27,strong_terms
+T10,Field operation and environmental effects,sensor placement,L28,strong_terms
+T10,Field operation and environmental effects,settlement,L27,weak_terms
+T10,Field operation and environmental effects,temperature compensation,L27,strong_terms
+T10,Field operation and environmental effects,temperature effect*,L27,strong_terms
+T10,Field operation and environmental effects,temperature induced,L27,strong_terms
+T10,Field operation and environmental effects,test bed*,L28,strong_terms
+T10,Field operation and environmental effects,testbed*,L28,strong_terms
+T10,Field operation and environmental effects,thermal,L27,weak_terms
+T10,Field operation and environmental effects,traffic load*,L27,strong_terms
+T10,Field operation and environmental effects,traffic monitoring,L27,strong_terms
+T10,Field operation and environmental effects,vehicle bridge interaction,L27,strong_terms
+T10,Field operation and environmental effects,wind load*,L27,strong_terms

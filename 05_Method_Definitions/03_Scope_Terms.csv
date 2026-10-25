@@ -1,0 +1,202 @@
+﻿block,term_id,term
+shm,0,structural health monitoring
+shm,1,structural monitoring
+shm,2,structural condition monitoring
+shm,3,structural integrity monitoring
+shm,4,condition monitoring
+shm,5,condition assessment
+shm,6,condition evaluation
+shm,7,structural condition assessment
+shm,8,structural assessment
+shm,9,structural integrity assessment
+shm,10,structural performance monitoring
+shm,11,performance assessment
+shm,12,serviceability assessment
+shm,13,deterioration assessment
+shm,14,damage detection
+shm,15,damage identification
+shm,16,damage localization
+shm,17,damage localisation
+shm,18,damage diagnosis
+shm,19,damage assessment
+shm,20,structural damage detection
+shm,21,structural damage identification
+shm,22,structural damage localization
+shm,23,structural damage localisation
+shm,24,structural diagnosis
+shm,25,defect detection
+shm,26,defect identification
+shm,27,anomaly detection
+shm,28,anomaly identification
+shm,29,novelty detection
+shm,30,structural response monitoring
+shm,31,response monitoring
+shm,32,vibration monitoring
+shm,33,vibration-based monitoring
+shm,34,dynamic monitoring
+shm,35,modal monitoring
+shm,36,modal identification
+shm,37,modal parameter identification
+shm,38,operational modal analysis
+shm,39,structural system identification
+shm,40,system identification
+shm,41,response estimation
+shm,42,response reconstruction
+shm,43,inspection and monitoring
+shm,44,maintenance-oriented monitoring
+civil,45,civil infrastructure*
+civil,46,civil engineering
+civil,47,civil structure*
+civil,48,bridge*
+civil,49,viaduct*
+civil,50,overpass*
+civil,51,flyover*
+civil,52,building*
+civil,53,tunnel*
+civil,54,dam*
+civil,55,tower*
+civil,56,heritage structure*
+civil,57,historic structure*
+civil,58,masonry structure*
+civil,59,railway infrastructure*
+civil,60,railroad infrastructure*
+civil,61,transportation infrastructure*
+civil,62,transport infrastructure*
+civil,63,road infrastructure*
+civil,64,highway infrastructure*
+civil,65,pavement*
+civil,66,offshore structure*
+civil,67,marine structure*
+civil,68,coastal structure*
+civil,69,port infrastructure*
+civil,70,harbour structure*
+civil,71,harbor structure*
+civil,72,retaining wall*
+civil,73,levee*
+civil,74,embankment*
+civil,75,geotechnical structure*
+civil,76,wind turbine tower*
+civil,77,wind turbine support structure*
+civil,78,buried pipeline*
+civil,79,water pipeline*
+bridge,48,bridge*
+bridge,49,viaduct*
+bridge,50,overpass*
+bridge,51,flyover*
+bridge,80,footbridge*
+bridge,81,pedestrian bridge*
+iot,82,Internet of Things
+iot,83,IoT
+iot,84,Industrial Internet of Things
+iot,85,IIoT
+iot,86,Internet of Everything
+iot,87,IoE
+iot,88,IoT-enabled
+iot,89,IoT enabled
+iot,90,IoT-based
+iot,91,IoT based
+iot,92,IoT-assisted
+iot,93,IoT assisted
+iot,94,wireless sensor network*
+iot,95,WSN
+iot,96,WSNs
+iot,97,wireless smart sensor*
+iot,98,wireless smart sensing
+iot,99,smart sensor network*
+iot,100,sensor network*
+iot,101,wireless sensing
+iot,102,connected sensor*
+iot,103,networked sensor*
+iot,104,distributed sensor network*
+iot,105,cyber-physical system*
+iot,106,cyber physical system*
+iot,107,CPS
+iot,108,machine-to-machine
+iot,109,machine to machine
+iot,110,M2M
+iot,111,ubiquitous sensing
+iot,112,pervasive sensing
+iot,113,smart sensing
+iot,114,remote monitoring network*
+iot,115,cloud-based monitoring
+iot,116,cloud based monitoring
+iot,117,cloud-enabled monitoring
+iot,118,cloud enabled monitoring
+edge,82,Internet of Things
+edge,83,IoT
+edge,119,edge computing
+edge,120,edge intelligence
+edge,121,edge AI
+edge,122,edge artificial intelligence
+edge,123,edge analytics
+edge,124,edge processing
+edge,125,edge-enabled
+edge,126,edge enabled
+edge,127,edge-assisted
+edge,128,edge assisted
+edge,129,edge-cloud
+edge,130,edge cloud
+edge,131,cloud-edge
+edge,132,cloud edge
+edge,133,edge device*
+edge,134,edge node*
+edge,135,edge server*
+edge,136,edge gateway*
+edge,137,fog computing
+edge,138,fog-enabled
+edge,139,fog enabled
+edge,140,fog-assisted
+edge,141,fog assisted
+edge,142,fog node*
+edge,143,mist computing
+edge,144,cloudlet*
+edge,145,mobile edge computing
+edge,146,multi-access edge computing
+edge,147,multi access edge computing
+edge,148,MEC
+edge,149,mobile cloud computing
+edge,150,near-sensor processing
+edge,151,near sensor processing
+edge,152,sensor-side processing
+edge,153,sensor side processing
+edge,154,on-sensor processing
+edge,155,on sensor processing
+edge,156,in-sensor computing
+edge,157,in sensor computing
+edge,158,in-sensor processing
+edge,159,in sensor processing
+edge,160,on-node processing
+edge,161,on node processing
+edge,162,node-level processing
+edge,163,node level processing
+edge,164,in-network processing
+edge,165,in network processing
+edge,166,gateway processing
+edge,167,gateway-based processing
+edge,168,gateway based processing
+edge,169,on-device computing
+edge,170,on device computing
+edge,171,on-device processing
+edge,172,on device processing
+edge,173,on-device inference
+edge,174,on device inference
+edge,175,local inference
+edge,176,embedded inference
+edge,177,embedded intelligence
+edge,178,embedded AI
+edge,179,TinyML
+edge,180,local processing
+edge,181,local computation
+edge,182,local computing
+edge,183,distributed processing
+edge,184,distributed computing
+edge,185,decentralized processing
+edge,186,decentralised processing
+edge,187,embedded processing
+edge,188,embedded computing
+edge,189,sensor*
+edge,190,sensing
+edge,191,node*
+edge,192,gateway*
+edge,193,wireless
+edge,194,monitoring

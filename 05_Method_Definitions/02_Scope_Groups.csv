@@ -1,0 +1,9 @@
+﻿group,name,expression,records
+G1,Civil SHM,S AND C,21811
+G2,Bridge SHM,S AND B,5833
+G3,Civil IoT SHM,S AND C AND I,761
+G4,Bridge IoT SHM,S AND B AND I,221
+G5,Civil Edge SHM,S AND C AND E,158
+G6,Bridge Edge SHM,S AND B AND E,61
+G7,Civil IoT and Edge SHM,S AND C AND I AND E,57
+G8,Bridge IoT and Edge SHM,S AND B AND I AND E,21

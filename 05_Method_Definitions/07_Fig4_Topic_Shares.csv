@@ -1,0 +1,11 @@
+﻿topic_id,topic,other_civil_percent,bridge_percent,threshold_percent
+T01,Modal and system identification,8.970099667774086,23.754789272030653,15
+T02,Inertial strain and MEMS,17.109634551495017,32.56704980842912,15
+T03,Acoustic piezo and smart materials,25.91362126245847,8.045977011494253,15
+T04,Optical and distributed fiber sensing,5.813953488372093,4.980842911877395,15
+T05,Vision remote and robotic inspection,21.428571428571427,25.67049808429119,15
+T06,Signal processing and reconstruction,31.229235880398672,36.015325670498086,15
+T07,Wireless protocols and connectivity,27.906976744186046,45.593869731800766,15
+T08,Synchronization and data quality,7.807308970099668,17.624521072796934,15
+T09,Energy harvesting and power,19.102990033222593,11.877394636015326,15
+T10,Field operation and environmental effects,38.70431893687708,50.191570881226056,15

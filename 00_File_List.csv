@@ -1,0 +1,50 @@
+﻿file,category,records
+00_README.md,Folder guide,
+01_Corpus/01_Included_Publications_U.csv,Included publications,21840
+01_Corpus/02_Research_Articles.csv,Research articles,21320
+01_Corpus/03_Review_Articles.csv,Review articles,520
+02_Scope_Groups/01_G1_Civil_SHM.csv,G1 Civil SHM,21811
+02_Scope_Groups/02_G2_Bridge_SHM.csv,G2 Bridge SHM,5833
+02_Scope_Groups/03_G3_Civil_IoT_SHM.csv,G3 Civil IoT SHM,761
+02_Scope_Groups/04_G4_Bridge_IoT_SHM.csv,G4 Bridge IoT SHM,221
+02_Scope_Groups/05_G5_Civil_Edge_SHM.csv,G5 Civil Edge SHM,158
+02_Scope_Groups/06_G6_Bridge_Edge_SHM.csv,G6 Bridge Edge SHM,61
+02_Scope_Groups/07_G7_Civil_IoT_and_Edge_SHM.csv,G7 Civil IoT and Edge SHM,57
+02_Scope_Groups/08_G8_Bridge_IoT_and_Edge_SHM.csv,G8 Bridge IoT and Edge SHM,21
+03_Analysis_Sets/01_IoT_Including_Edge_SHM_T.csv,IoT including edge SHM T,863
+03_Analysis_Sets/02_Bridge_SHM_B.csv,Bridge SHM B,5833
+03_Analysis_Sets/03_Edge_SHM_E.csv,Edge SHM E,158
+03_Analysis_Sets/04_Bridge_IoT_Including_Edge_SHM.csv,Bridge IoT including edge SHM,261
+03_Analysis_Sets/05_Other_Civil_IoT_Including_Edge_SHM.csv,Other Civil IoT including edge SHM,602
+03_Analysis_Sets/06_IoT_Block_I.csv,IoT Block I,762
+03_Analysis_Sets/07_Remaining_SHM_U_minus_T.csv,Remaining SHM U minus T,20977
+03_Analysis_Sets/08_Remaining_Bridge_SHM_B_minus_T.csv,Remaining Bridge SHM B minus T,5572
+03_Analysis_Sets/09_IoT_Without_Edge_T_minus_E.csv,IoT Without Edge T minus E,705
+03_Analysis_Sets/10_Edge_Only_E_minus_I.csv,Edge Only E minus I,101
+03_Analysis_Sets/11_IoT_and_Edge_Intersection_I_and_E.csv,IoT and Edge Intersection I and E,57
+04_Topic_Groups/01_T01_Modal_and_system_identification.csv,Modal and system identification,116
+04_Topic_Groups/02_T02_Inertial_strain_and_MEMS.csv,Inertial strain and MEMS,188
+04_Topic_Groups/03_T03_Acoustic_piezo_and_smart_materials.csv,Acoustic piezo and smart materials,177
+04_Topic_Groups/04_T04_Optical_and_distributed_fiber_sensing.csv,Optical and distributed fiber sensing,48
+04_Topic_Groups/05_T05_Vision_remote_and_robotic_inspection.csv,Vision remote and robotic inspection,196
+04_Topic_Groups/06_T06_Signal_processing_and_reconstruction.csv,Signal processing and reconstruction,282
+04_Topic_Groups/07_T07_Wireless_protocols_and_connectivity.csv,Wireless protocols and connectivity,287
+04_Topic_Groups/08_T08_Synchronization_and_data_quality.csv,Synchronization and data quality,93
+04_Topic_Groups/09_T09_Energy_harvesting_and_power.csv,Energy harvesting and power,146
+04_Topic_Groups/10_T10_Field_operation_and_environmental_effects.csv,Field operation and environmental effects,364
+04_Topic_Groups/11_No_Matched_Topic.csv,No matched topic,83
+05_Method_Definitions/01_Selected_Journals.csv,Selected journals,50
+05_Method_Definitions/02_Scope_Groups.csv,Scope group definitions,8
+05_Method_Definitions/03_Scope_Terms.csv,195 distinct scope terms across five blocks,201
+05_Method_Definitions/04_Scope_Expressions.csv,Scope expressions,5
+05_Method_Definitions/05_Topic_Expressions.csv,329 topic expressions,329
+05_Method_Definitions/06_Topic_Counts.csv,Topic counts and denominators,20
+05_Method_Definitions/07_Fig4_Topic_Shares.csv,Current Figure4 shares and 15 percent threshold,10
+06_Core_Code/01_metadata_core.py,Core code,
+06_Core_Code/02_screening_core.py,Core code,
+06_Core_Code/03_scope_and_topic_core.py,Core code,
+06_Core_Code/examples/01_Metadata_Example.py,Offline metadata example,
+06_Core_Code/examples/02_Screening_Example.py,Offline content screening example,
+06_Core_Code/examples/03_Deduplication_Example.py,Offline duplicate candidate example,
+06_Core_Code/examples/04_Scope_and_Topic_Example.py,Offline scope and topic example,
+06_Core_Code/examples/05_Annual_Counting_Example.py,Annual Figure2 and Figure3 counting example,
