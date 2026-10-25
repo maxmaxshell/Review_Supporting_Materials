@@ -1,0 +1,7 @@
+Due to its large file size, the OpenAlex dataset used in this study is hosted on external cloud storage rather than directly in this GitHub repository.
+
+Dataset download: xxxxx
+
+The dataset contains bibliographic metadata retrieved from OpenAlex for literature screening, classification, and bibliometric analysis.
+
+Note: The dataset is provided for research reproducibility. Users should comply with the applicable data-source terms and licensing requirements.
